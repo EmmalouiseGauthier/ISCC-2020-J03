@@ -1,0 +1,43 @@
+body 
+{
+    color: darkslategrey 
+}
+h1
+{
+    columns: #8d0000;
+}
+h2 
+{
+    color: RGB(178,34,34)
+}
+body 
+{
+    background-color: aliceblue
+}
+h1
+{
+    color: rgba(0,0,0,0.8) 
+}
+h1
+{
+    color: #8d0000 
+    front-family: nasalization-rg
+}
+h1
+{
+font-size: 45px
+}
+h2
+{
+    font-size: 25px;
+    text-decoration: underline;
+}
+h1
+{
+    text-decoration: black underline;
+    margin-left: 50;
+}
+h2
+{
+    margin-left: 50;
+}
